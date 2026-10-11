@@ -1,4 +1,4 @@
-// Wait for the DOM to be fully loaded
+// Wait for the DOM to be fully loaded test
 document.addEventListener('DOMContentLoaded', function () {
 
     // Get DOM elements
